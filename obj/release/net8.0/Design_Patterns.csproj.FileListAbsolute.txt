@@ -1,0 +1,5 @@
+C:\Users\Daffolap-0152\Desktop\GitBasics\Design_Patterns\obj\release\net8.0\Design_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daffolap-0152\Desktop\GitBasics\Design_Patterns\obj\release\net8.0\Design_Patterns.AssemblyInfoInputs.cache
+C:\Users\Daffolap-0152\Desktop\GitBasics\Design_Patterns\obj\release\net8.0\Design_Patterns.AssemblyInfo.cs
+C:\Users\Daffolap-0152\Desktop\GitBasics\Design_Patterns\obj\release\net8.0\Design_Patterns.csproj.CoreCompileInputs.cache
+C:\Users\Daffolap-0152\Desktop\GitBasics\Design_Patterns\obj\release\net8.0\Design_Patterns.sourcelink.json
